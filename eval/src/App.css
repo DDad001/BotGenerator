@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+.TextNavColor{
+  color: white !important;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.HomeHeroImage{
+  background-image: url("./Images/HomepageBackground.jpg");
+  background-size: cover;
+  height: 93vh;
+
+}
+
+.TitleText{
+  color: white;
+  font-family: 'Bungee', cursive;
+}
+
+.bottomText{
+  color: white;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 13px !important;
+}
+
+.CardTitleText{
+  font-family: 'Bungee', cursive;
+}
+.CardText{
+  color: black !important;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 10px !important;
+}
+
+.ButtonCardText{
+border: none !important;
+  background-color: #6600CC !important;
+  color: white !important;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 12px !important;
+}
+
+
+.FooterText{
+  color: white !important;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 13px !important;
+}
+
+.customMargin{
+  margin-top: 55px !important;
+}
+
+.background{
+  background-color: #3E3757 !important;
+}

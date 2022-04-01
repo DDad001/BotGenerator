@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+
+body{
+    background-color: #3E3757;
+}
+
+.TitleObjective{
+    color: white;
+    font-family: 'Bungee', cursive;
+}
+
+.MarginLeft{
+    margin-left: 200px !important;
+}
+
+.CardObjectiveText{
+    color: black !important;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 13px !important;
+}
+
+.CardBodyText{
+    color: black !important;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 13px !important;
+}
+
+.CardImage{
+    border: none !important;
+}
